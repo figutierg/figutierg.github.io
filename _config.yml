@@ -2,25 +2,33 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # leaving this blank uses your full name automatically
+title: blank
 first_name: Felipe I.
-#middle_name: 
+middle_name: ""
 last_name: Gutiérrez
 contact_note: >
   The best way to reach me is via email.
-description: > 
+description: >
   Personal website of Felipe I. Gutiérrez González, PhD Researcher in Machine Learning, Deep Learning, and Topological Data Analysis.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: machine-learning, deep-learning, topological-data-analysis, artificial-intelligence, academic-portfolio
-lang: en 
-#icon: 
-url: https://figutierg.github.io # REPLACE "yourusername" with your actual GitHub username!
-baseurl: "" # LEAVE THIS EXACTLY LIKE THIS: EMPTY QUOTES. 
-last_updated: true # Changed to true so visitors know your CV is fresh
-#impressum_path: 
+keywords: machine-learning, deep-learning, topological-data-analysis, artificial-intelligence
+lang: en
+icon: 🧠
+url: https://figutierg.github.io
+baseurl: ""
+last_updated: true
+impressum_path: ""
 back_to_top: true
+
+# -----------------------------------------------------------------------------
+# Social Integration (Update these with your links)
+# -----------------------------------------------------------------------------
+# Add these below 'back_to_top' to enable your footer icons
+email: figutier@uc.cl
+linkedin_username: felipegutierrezg
+github_username: figutierg
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
