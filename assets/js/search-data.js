@@ -476,7 +476,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/felipeivangutierrezgonzalez", "_blank");
+          window.open("https://www.linkedin.com/in/fgutierg", "_blank");
         },
       },{
         id: 'social-scholar',
