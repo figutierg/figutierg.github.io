@@ -210,20 +210,4 @@
       "releaseDate": "2022-01-01"
     }
   ],
-  "volunteer": [
-    {
-      "organization": "National Center for Artificial Intelligence (CENIA)",
-      "position": "Affiliated PhD Researcher",
-      "startDate": "2022-01-01",
-      "endDate": "Present",
-      "summary": "Chile's national center of excellence for the research, development, and transfer of Artificial Intelligence."
-    },
-    {
-      "organization": "School of Engineering, PUC",
-      "position": "Lecturer",
-      "startDate": "2022-01-01",
-      "endDate": "2023-07-31",
-      "summary": "Taught Programming as a Tool for Engineering and Introduction to Data Science."
-    }
-  ]
 }
