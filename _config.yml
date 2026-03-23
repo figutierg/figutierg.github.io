@@ -287,6 +287,7 @@ scholar:
   # UPDATE THESE ARRAYS to match how you appear in your .bib file
   last_name: [Gutiérrez]
   first_name: [Felipe I.]
+  scholar_id: 1SkM3gkAAAAJ
 
   style: apa
   locale: en
